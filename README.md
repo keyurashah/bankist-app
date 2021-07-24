@@ -1,6 +1,6 @@
 # bankist-app
 
-Bankist is a fictitious online banking application that allows the user to:
+Bankist App is a fictitious online banking application that allows the user to:
 
 1. Log in with a username and password. 
 2. View and sort their monetary movements. 
