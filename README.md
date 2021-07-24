@@ -7,6 +7,9 @@ View and sort their monetary movements
 Transfer money to another account
 Request a loan from the bank
 Delete their account
+
+
+
 Log in credentials:
 
 username: js | password: 1111
